@@ -11,10 +11,10 @@ Prerequisites:
 
 ```bash
 cd web
-./web.sh  # runs npm ci, npm run build, then npm run dev -- --host 0.0.0.0 --port 5173
+./web.sh  # runs npm ci, vite build, then npm start (vite preview on port 4173)
 ```
 
-You can also run the commands manually (`npm install`, `npm run build`, `npm run dev -- --host 0.0.0.0 --port 5173`).
+You can also run the commands manually (`npm install`, `npm run build`, `npm start`).
 
 ### [Video Demo](https://drive.google.com/file/d/1QG45nfBbJ9wXSHtsoOfRWYOWr1tfouJ8/view?usp=sharing)
 
