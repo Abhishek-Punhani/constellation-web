@@ -16,6 +16,8 @@ cd web
 
 You can also run the commands manually (`npm install`, `npm run build`, `npm run dev -- --host 0.0.0.0 --port 5173`).
 
+### [Video Demo](https://drive.google.com/file/d/1QG45nfBbJ9wXSHtsoOfRWYOWr1tfouJ8/view?usp=sharing)
+
 ## What is implemented
 
 1. **Mission Control** – global FSM controls, onboarding tour, statistics rail, and satellite cards that show state + role badges.
